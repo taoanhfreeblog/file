@@ -1,5 +1,5 @@
-window.ds_cau = [
-  "Tớ không biết từ khi nào, mỗi lần nhìn thấy cậu, tim tớ lại đập nhanh hơn một chút. Cậu là người đầu tiên khiến tớ cười chỉ vì một ánh mắt hay một dòng tin nhắn. Nếu cậu đồng ý, tớ muốn mỗi ngày sau này đều có cậu ở bên. Mình cùng viết nên câu chuyện của riêng mình, được không?",
+     const dscau = [
+     "Tớ không biết từ khi nào, mỗi lần nhìn thấy cậu, tim tớ lại đập nhanh hơn một chút. Cậu là người đầu tiên khiến tớ cười chỉ vì một ánh mắt hay một dòng tin nhắn. Nếu cậu đồng ý, tớ muốn mỗi ngày sau này đều có cậu ở bên. Mình cùng viết nên câu chuyện của riêng mình, được không?",
   "Có thể tớ không hoàn hảo, cũng chẳng giỏi giang gì, nhưng tớ luôn thật lòng với cảm xúc của mình. Cậu là người mà mỗi lần nghĩ đến, tớ lại thấy thế giới trở nên dịu dàng hơn. Nếu cậu cho tớ một cơ hội, tớ hứa sẽ dùng cả trái tim để làm cậu hạnh phúc.",
   "Cậu là người duy nhất khiến tớ mong chờ mỗi buổi sáng thức dậy và nghĩ đến trước khi ngủ. Tớ không biết tình yêu là gì cho đến khi gặp cậu. Nếu cậu đồng ý, hãy để tớ được bên cậu, che chở và làm cậu cười mỗi ngày, không chỉ hôm nay, mà là tất cả những ngày sau này nữa",
   "Anh đã thử tra Google, hỏi ChatGPT, thậm chí rút bài Tarot… nhưng đáp án đều giống nhau: \"Em chính là người khiến tim anh đập loạn.\" Anh không giỏi toán, nhưng biết chắc rằng: 1 em + 1 anh = một chuyện tình dễ thương. Em cho anh cơ hội… làm người yêu hợp pháp được không?",
@@ -7,4 +7,4 @@ window.ds_cau = [
   "Anh chẳng phải kiểu người lãng mạn, nhưng từ khi gặp em, mọi câu nói đều muốn bắt đầu bằng 'Anh thích em'. Anh không muốn làm crush trong im lặng nữa. Anh muốn làm người yêu hợp pháp, người bên em khi vui lẫn buồn. Em nghĩ sao nếu mình chính thức từ hôm nay?",
   "Có thể em không phải cô gái hoàn hảo, nhưng em luôn dành trái tim thật nhất cho một người – là anh. Cảm ơn vì đã đến bên em, vì tất cả những cái ôm ấm áp, những lần lắng nghe, và vì đã là người em thương không cần lý do.",
   "Anh giống như Wi-Fi mạnh giữa sa mạc – xuất hiện đúng lúc em cần nhất. Em không biết tình yêu dài bao lâu, chỉ biết là, nếu được chọn lại ngàn lần, em vẫn chọn anh – dù đôi khi anh có hơi ngốc và lắm trò! Em thích anh"
-];
+           ];
