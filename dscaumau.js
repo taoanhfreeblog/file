@@ -1,5 +1,11 @@
      const dscau = [
-     "Tớ không biết từ khi nào, mỗi lần nhìn thấy cậu, tim tớ lại đập nhanh hơn một chút. Cậu là người đầu tiên khiến tớ cười chỉ vì một ánh mắt hay một dòng tin nhắn. Nếu cậu đồng ý, tớ muốn mỗi ngày sau này đều có cậu ở bên. Mình cùng viết nên câu chuyện của riêng mình, được không?",
+  "Valentine này anh chúc em luôn xinh đẹp, vui vẻ và hạnh phúc mỗi ngày. Cảm ơn em vì đã đến bên anh, mang theo yêu thương và ấm áp. Anh mong rằng chúng ta sẽ luôn nắm tay nhau thật chặt, cùng đi qua thật nhiều mùa Valentine nữa.";
+   "Nhân ngày Valentine, anh chúc em luôn mỉm cười thật nhiều, gặp toàn điều tốt đẹp và luôn cảm thấy được yêu thương. Cảm ơn em vì đã là một phần quan trọng trong cuộc sống của anh. Chỉ cần có em bên cạnh, với anh vậy là đủ.";
+  "Valentine này anh chúc em luôn bình yên trong tim, mạnh mẽ trong cuộc sống và hạnh phúc khi ở bên anh. Cảm ơn em vì đã yêu thương, thấu hiểu và đồng hành cùng anh mỗi ngày. Mong rằng tình yêu của chúng ta sẽ luôn bền lâu theo thời gian.";
+  "Valentine này, em chỉ muốn nói rằng có anh trong đời là điều may mắn nhất của em. Cảm ơn anh vì luôn quan tâm, che chở và yêu thương em theo cách rất riêng. Mong rằng chúng ta sẽ luôn nắm tay nhau thật chặt, không chỉ hôm nay mà là rất lâu về sau.";
+  "Giữa những bộn bề của cuộc sống, anh đến và mang theo cho em cảm giác bình yên khó tả. Valentine này em không mong gì hơn ngoài việc được ở bên anh, cùng chia sẻ niềm vui lẫn mệt mỏi. Chỉ cần có anh, mọi ngày với em đều trở nên ý nghĩa.";
+  "Valentine không cần hoa hay quà đắt tiền, với em chỉ cần có anh là đủ. Cảm ơn anh vì đã kiên nhẫn, bao dung và luôn ở bên em những lúc cần nhất. Em mong rằng tình yêu của chúng ta sẽ luôn giản dị, chân thành và bền lâu theo năm tháng.";
+  "Tớ không biết từ khi nào, mỗi lần nhìn thấy cậu, tim tớ lại đập nhanh hơn một chút. Cậu là người đầu tiên khiến tớ cười chỉ vì một ánh mắt hay một dòng tin nhắn. Nếu cậu đồng ý, tớ muốn mỗi ngày sau này đều có cậu ở bên. Mình cùng viết nên câu chuyện của riêng mình, được không?",
   "Có thể tớ không hoàn hảo, cũng chẳng giỏi giang gì, nhưng tớ luôn thật lòng với cảm xúc của mình. Cậu là người mà mỗi lần nghĩ đến, tớ lại thấy thế giới trở nên dịu dàng hơn. Nếu cậu cho tớ một cơ hội, tớ hứa sẽ dùng cả trái tim để làm cậu hạnh phúc.",
   "Cậu là người duy nhất khiến tớ mong chờ mỗi buổi sáng thức dậy và nghĩ đến trước khi ngủ. Tớ không biết tình yêu là gì cho đến khi gặp cậu. Nếu cậu đồng ý, hãy để tớ được bên cậu, che chở và làm cậu cười mỗi ngày, không chỉ hôm nay, mà là tất cả những ngày sau này nữa",
   "Anh đã thử tra Google, hỏi ChatGPT, thậm chí rút bài Tarot… nhưng đáp án đều giống nhau: \u0027Em chính là người khiến tim anh đập loạn.\u0027 Anh không giỏi toán, nhưng biết chắc rằng: 1 em + 1 anh = một chuyện tình dễ thương. Em cho anh cơ hội… làm người yêu hợp pháp được không?",
@@ -7,5 +13,4 @@
   "Anh chẳng phải kiểu người lãng mạn, nhưng từ khi gặp em, mọi câu nói đều muốn bắt đầu bằng 'Anh thích em'. Anh không muốn làm crush trong im lặng nữa. Anh muốn làm người yêu hợp pháp, người bên em khi vui lẫn buồn. Em nghĩ sao nếu mình chính thức từ hôm nay?",
   "Có thể em không phải cô gái hoàn hảo, nhưng em luôn dành trái tim thật nhất cho một người – là anh. Cảm ơn vì đã đến bên em, vì tất cả những cái ôm ấm áp, những lần lắng nghe, và vì đã là người em thương không cần lý do.",
   "Anh giống như Wi-Fi mạnh giữa sa mạc – xuất hiện đúng lúc em cần nhất. Em không biết tình yêu dài bao lâu, chỉ biết là, nếu được chọn lại ngàn lần, em vẫn chọn anh – dù đôi khi anh có hơi ngốc và lắm trò! Em thích anh"
-
-           ];
+       ];
