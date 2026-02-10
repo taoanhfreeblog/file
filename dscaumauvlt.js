@@ -1,0 +1,8 @@
+     const dscau = [
+	"Valentine này anh chúc em luôn xinh đẹp, vui vẻ và hạnh phúc mỗi ngày. Cảm ơn em vì đã đến bên anh, mang theo yêu thương và ấm áp. Anh mong rằng chúng ta sẽ luôn nắm tay nhau thật chặt, cùng đi qua thật nhiều mùa Valentine nữa.",
+	"Nhân ngày Valentine, anh chúc em luôn mỉm cười thật nhiều, gặp toàn điều tốt đẹp và luôn cảm thấy được yêu thương. Cảm ơn em vì đã là một phần quan trọng trong cuộc sống của anh. Chỉ cần có em bên cạnh, với anh vậy là đủ.",
+	"Valentine này anh chúc em luôn bình yên trong tim, mạnh mẽ trong cuộc sống và hạnh phúc khi ở bên anh. Cảm ơn em vì đã yêu thương, thấu hiểu và đồng hành cùng anh mỗi ngày. Mong rằng tình yêu của chúng ta sẽ luôn bền lâu theo thời gian.",
+	"Valentine này, em chỉ muốn nói rằng có anh trong đời là điều may mắn nhất của em. Cảm ơn anh vì luôn quan tâm, che chở và yêu thương em theo cách rất riêng. Mong rằng chúng ta sẽ luôn nắm tay nhau thật chặt, không chỉ hôm nay mà là rất lâu về sau.",
+	"Giữa những bộn bề của cuộc sống, anh đến và mang theo cho em cảm giác bình yên khó tả. Valentine này em không mong gì hơn ngoài việc được ở bên anh, cùng chia sẻ niềm vui lẫn mệt mỏi. Chỉ cần có anh, mọi ngày với em đều trở nên ý nghĩa.",
+	"Valentine không cần hoa hay quà đắt tiền, với em chỉ cần có anh là đủ. Cảm ơn anh vì đã kiên nhẫn, bao dung và luôn ở bên em những lúc cần nhất. Em mong rằng tình yêu của chúng ta sẽ luôn giản dị, chân thành và bền lâu theo năm tháng.",
+  ];
