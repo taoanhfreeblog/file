@@ -10,4 +10,4 @@
    "Hôm nay mình mới thật sự cảm nhận được rằng tuổi học trò sắp kết thúc. Những điều từng nghĩ là bình thường như tiếng trống trường hay giờ ra chơi giờ lại trở thành điều đáng nhớ nhất. Cảm ơn tất cả vì một thanh xuân thật đẹp.",
    "Chúng ta rồi sẽ trưởng thành, sẽ có những cuộc sống riêng và những ước mơ riêng. Nhưng chắc chắn rằng quãng thời gian ngồi cùng lớp, cùng cười đùa dưới mái trường này sẽ mãi là ký ức không thể thay thế.",
    "Điều đẹp nhất của tuổi học trò không chỉ là những thành tích đạt được, mà còn là những người bạn đã cùng mình đi qua cả một quãng thanh xuân. Cảm ơn tất cả vì đã xuất hiện trong những năm tháng đẹp nhất ấy."
-   ;
+];
