@@ -24,7 +24,7 @@ const GOOGLE_FORM_URL='https://docs.google.com/forms/d/e/1FAIpQLScNoLPPQusG91XOp
       <a class="btnthongbao" href="https://www.facebook.com/taoanhfree/" target="_blank"><i class="fa-brands fa-facebook"></i>
         Liên hệ Facebook
       </a>
-	        <a class="btnthongbao"  href="https://www.tiktok.com/@taoanhfree11" target="_blank"><i class="fa-brands fa-facebook"></i>
+	        <a class="btnthongbao"  href="https://www.tiktok.com/@taoanhfree11" target="_blank"><i class="fa-brands fa-tiktok"></i>
         Theo dõi TikTok
       </a>
     </div>
